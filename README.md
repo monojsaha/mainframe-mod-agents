@@ -9,7 +9,7 @@ AI-assisted mainframe modernisation framework — migrating COBOL/CICS/JCL workl
 ```
 mainframe-mod-agents/
 ├── sample-mainframe-app/              ← AWS CardDemo — full-stack mainframe sample (READ-ONLY reference)
-└── op-newloan-poc/                    ← MF App modernisation PoC
+└── MF_Mod/                             ← MF App modernisation PoC
     ├── .github/                        ← All Copilot customisation files
     │   ├── copilot-instructions.md     ← Auto-loaded global instructions
     │   ├── AGENTS.md                   ← Background agent instructions
