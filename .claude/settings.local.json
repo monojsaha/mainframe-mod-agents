@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); print\\(''''Name:'''', d.get\\(''''name''''\\)\\); print\\(''''Full name:'''', d.get\\(''''full_name''''\\)\\); print\\(''''Description:'''', d.get\\(''''description''''\\)\\); print\\(''''Clone URL:'''', d.get\\(''''clone_url''''\\)\\); print\\(''''Stars:'''', d.get\\(''''stargazers_count''''\\)\\); print\\(''''Language:'''', d.get\\(''''language''''\\)\\); print\\(''''Topics:'''', d.get\\(''''topics''''\\)\\)\")",
+      "WebSearch",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "poc": "mf-app",
+  "lastUpdated": null,
+  "services": {
+    "loan-origination-service": {
+      "stage-01": "pending",
+      "stage-02": "pending",
+      "stage-03": "pending",
+      "stage-04": "pending",
+      "stage-05": "pending",
+      "stage-06": "pending",
+      "stage-07": "pending",
+      "stage-08": "pending",
+      "stage-09": "pending"
+    },
+    "loan-assessment-service": {
+      "stage-01": "pending",
+      "stage-02": "pending",
+      "stage-03": "pending",
+      "stage-04": "pending",
+      "stage-05": "pending",
+      "stage-06": "pending",
+      "stage-07": "pending",
+      "stage-08": "pending",
+      "stage-09": "pending"
+    },
+    "loan-document-service": {
+      "stage-01": "pending",
+      "stage-02": "pending",
+      "stage-03": "pending",
+      "stage-04": "pending",
+      "stage-05": "pending",
+      "stage-06": "pending",
+      "stage-07": "pending",
+      "stage-08": "pending",
+      "stage-09": "pending"
+    }
+  }
+}
